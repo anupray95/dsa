@@ -1,4 +1,4 @@
-# DSA
+# Anupray-Solves-DSA
 
 I am practicing  **Data Structures**, and this repository contains **dsa implementations, common patterns, and LeetCode problem-solving code** in Python.
 
